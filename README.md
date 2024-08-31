@@ -4,7 +4,7 @@ Customer loyalty app for a general electronics company.
 Developed in 2022, it is not updated with the latest versions of Flutter, Dart and Java.
 Designed and tested on Android phone.
 
-The project is in the [poc]([https://pages.github.com/](https://github.com/marcoseverini/customer-loyalty-app/tree/main/poc)) folder.
+The project is in the [poc](https://github.com/marcoseverini/customer-loyalty-app/tree/main/poc) folder.
 
 ## Requirements
 - Flutter 3.0.5
